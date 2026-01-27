@@ -1,1 +1,1 @@
-# lightmix_scales
+# lightmix_temperaments
